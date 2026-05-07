@@ -5,6 +5,10 @@ This project simulates a real-world Tech Virtual Assistant system for a dental c
 
 It automates task prioritization and generates actionable instructions using AI, helping reduce manual decision-making in daily operations.
 
+## 🎥 Demo
+
+▶️ [Watch Project Demo on Loom](https://www.loom.com/share/80a6b1f0ffb54ad78bc7efcdb38967f0)
+
 ---
 
 ## 🚀 What This System Does
